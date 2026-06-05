@@ -98,7 +98,7 @@ g++ -std=c++17 -o test_runner tests/test_main.cpp \
 
 ## Liens
 - **GitHub** : https://github.com/youssrasifeddine-gif/StudentManager
-- **Vidéo démo** : https://youtu.be/[lien-video]
+- **Vidéo démo** : https://drive.google.com/file/d/1HFhCHcLBLrSKfJg8iAQ1EjABoOng0oCG/view?usp=drive_link
 - **Rapport** : https://drive.google.com/file/d/1ik7ko9J_depy7uDhK5mHpCRDXWN-XScO/view?usp=drivesdk
 ---
 
