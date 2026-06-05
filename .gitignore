@@ -1,0 +1,35 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+.qmake.stash
+*.stash
+
+# Build directories
+build/
+debug/
+release/
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+moc_*.cpp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+moc_*.cpp
+moc_predefs.h
+qrc_*.cpp
+ui_*.h
