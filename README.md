@@ -5,7 +5,7 @@
 ## Membres du groupe
 | Prénom Nom | Rôle principal |
 |---|---|
-| ABiA Abderahman | Modélisation OOP + Exceptions |
+| ABIA Abderahman | Modélisation OOP + Exceptions |
 | SIFEDDINE Youssra | GUI Qt + Persistance |
 
 ---
