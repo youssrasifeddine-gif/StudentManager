@@ -5,8 +5,8 @@
 ## Membres du groupe
 | Prénom Nom | Rôle principal |
 |---|---|
-| Membre 1 | Modélisation OOP + Exceptions |
-| Membre 2 | GUI Qt + Persistance |
+| ABiA Abderahman | Modélisation OOP + Exceptions |
+| SIFEDDINE Youssra | GUI Qt + Persistance |
 
 ---
 
@@ -97,9 +97,9 @@ g++ -std=c++17 -o test_runner tests/test_main.cpp \
 ---
 
 ## Liens
-- **GitHub** : https://github.com/[votre-repo]
+- **GitHub** : https://github.com/youssrasifeddine-gif/StudentManager
 - **Vidéo démo** : https://youtu.be/[lien-video]
-
+- **Rapport** : https://drive.google.com/file/d/1ik7ko9J_depy7uDhK5mHpCRDXWN-XScO/view?usp=drivesdk
 ---
 
-*Date de rendu : 15-05-2026*
+
